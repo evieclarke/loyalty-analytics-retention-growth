@@ -40,10 +40,10 @@ Python, R, Customer Segmentation, K-Means Clustering, Multiple Linear Regression
 [![Alt Text](images/customer_segmentation.png)
 
 ### Loyalty Distribution
-images/loyalty_distribution.png
+[![Alt Text](images/loyalty_distribution.png)
 
 ### Drivers of Loyalty
-images/loyalty_drivers.png
+[![Alt Text](images/loyalty_drivers.png)
 
 ## What I'd Do Next
 This project used sentiment analysis to understand overall customer opinion, but only at a polarity level. As a next step, I would expand the text analytics approach to identify specific drivers of customer engagement and frustration. This would help uncover themes related to ease of play, progression and variety, enabling more targeted marketing messages and loyalty strategies.
