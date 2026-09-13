@@ -34,8 +34,7 @@ The objective of this project was to identify high-value customer segments, unde
 ## Tools Used
 Python, R, Customer Segmentation, K-Means Clustering, Multiple Linear Regression, Decision Trees, Sentiment Analysis, Data Visualisation, Predictive Analytics, Customer Insights
 
-## Visual Outputs
-
+## Key Visuals
 ### Customer Segmentation
 [![Alt Text](images/customer_segmentation.png)
 
