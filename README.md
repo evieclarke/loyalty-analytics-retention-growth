@@ -37,7 +37,7 @@ Python, R, Customer Segmentation, K-Means Clustering, Multiple Linear Regression
 ## Visual Outputs
 
 ### Customer Segmentation
-images/customer_segmentation.png
+[![Alt Text](images/customer_segmentation.png)
 
 ### Loyalty Distribution
 images/loyalty_distribution.png
